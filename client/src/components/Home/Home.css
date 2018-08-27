@@ -1,0 +1,30 @@
+*{
+    color:white;
+}
+
+#homecontainer{
+    overflow: visible;
+    font-family: 'Alegreya Sans', sans-serif;
+    background-image: url("./assets/Untitled.png");
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+.header {
+    text-align: center;
+    color: #fff;
+    padding-top: 2vh;
+    padding-bottom: 10px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+#mySearch {
+    width: 320px;
+    border-style: groove;
+    text-align: center;
+    background-color: #fff;
+    margin-top: 15px;
+}
+
+.popularResult{
+    background-image: url("./assets/Untitled.png");
+}

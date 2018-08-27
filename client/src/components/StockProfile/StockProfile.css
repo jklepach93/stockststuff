@@ -1,0 +1,39 @@
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+#stockprofilecontainer{}
+
+#wikicard {
+    height:35vh;
+    width:25vw;
+    margin-left: 1vw;
+    background-image: url("../Home/assets/Untitled.png");
+}
+
+#snapshotcard{
+    height:35vh;
+    width:38.5vw;
+    margin-right: 1vw;
+    background-image: url("../Home/assets/Untitled.png");
+}
+
+#lowprice {
+    margin-left: 2vw;
+}
+
+#highprice {
+    margin-right: 2vw;
+}
+
+#whatif {
+    margin: auto;
+}
+
+#number {
+    width: 60px;
+}
+
+#date {
+    width: 180px;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color:silver;
+}
+h1{
+position:fixed;
+right:50%;
+}
+.autocomplete{
+    position:fixed;
+    right:43%;
+    bottom:90%;
+}
+.autocomplete1{
+    position:fixed;
+    right:43%;
+    bottom:87%;
+}
+.autocomplete2{
+    position:fixed;
+    right:43%;
+    bottom:84%;
+}
+.autocomplete3{
+    position:fixed;
+    right:43%;
+    bottom:81%;
+}
+.autocomplete4{
+    position:fixed;
+    right:43%;
+    bottom:78%;
+}
+.button{
+    position:fixed;
+    right:51%;
+    bottom: 65%;
+    width: 100px;
+
+}

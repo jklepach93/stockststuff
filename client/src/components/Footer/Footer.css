@@ -1,0 +1,18 @@
+.footer {
+  position: fixed;
+  clear: both;
+  left: 0;
+  bottom: 0;
+  color: #fff;
+  font-size: 4px;
+  height: 50px;
+  width: 100%;
+  background-color: #1565c0;
+  text-align: center;
+  padding-top: 20px;
+  /* border-top: solid; */
+  /* border-top-color: #b1d0d5; */
+  margin-top:50px;
+}
+
+
